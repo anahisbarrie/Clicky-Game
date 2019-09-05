@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Marie",
-        "image":"../images/1.png",
+        "image":"/images/1.png",
         "count": 0
     },
     {
