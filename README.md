@@ -1,3 +1,9 @@
+Please try a demo of this app on the following link:
+
+https://clickygameanahis.herokuapp.com
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
